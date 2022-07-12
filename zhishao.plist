@@ -9,7 +9,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.10.102/jiuzhou.ipa</string>
+                    <string>http://1.15.227.117:81/app/jiuzhou.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
