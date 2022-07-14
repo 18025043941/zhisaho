@@ -15,9 +15,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.tgame.jzzh.my.8G75F3493Q</string>
+                <string>com.zs.jzzh.my</string>
                 <key>bundle-version</key>
-                <string>0.0.1</string>
+                <string>2.3.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>releaseNotes</key>
